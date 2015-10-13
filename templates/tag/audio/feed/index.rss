@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SmartStart WP  &#187; Audio</title>
+	<atom:link href="http://demo.samuli.me/wp/smartstart/tag/audio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://demo.samuli.me/wp/smartstart</link>
+	<description>Simple and clean but still professional template suitable for any business or portfolio!</description>
+	<lastBuildDate>Wed, 04 Sep 2013 07:26:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+		<item>
+		<title>Hit It Hard by BeatheBeat</title>
+		<link>../../../hit-it-hard-by-beathebeat/index.html</link>
+		<comments>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 14:08:51 +0000</pubDate>
+		<dc:creator>Smuliii</dc:creator>
+				<category><![CDATA[Direct Mail]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Travel & Tourism]]></category>
+		<category><![CDATA[Audio]]></category>
+
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Buy&#8230;]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+<p><span id="more-180"></span></p>
+<p>Buy this song from AudioJungle: <a title="Hit It Hard by BeatheBeat" href="http://audiojungle.net/item/hit-it-hard/84665" target="_blank">http://audiojungle.net/item/hit-it-hard/84665</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

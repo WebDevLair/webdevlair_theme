@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: The Quote Post</title>
+	<atom:link href="http://demo.samuli.me/wp/smartstart/the-quote-post/feed/" rel="self" type="application/rss+xml" />
+	<link>../index.html</link>
+	<description>Simple and clean but still professional template suitable for any business or portfolio!</description>
+	<lastBuildDate>Wed, 16 Apr 2014 22:26:32 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+	<item>
+		<title>By: ewwere</title>
+		<link>http://demo.samuli.me/wp/smartstart/the-quote-post/comment-page-1/#comment-2262</link>
+		<dc:creator>ewwere</dc:creator>
+		<pubDate>Mon, 13 Jan 2014 18:43:34 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=177#comment-2262</guid>
+		<description>wdwefqwefqergtqergqeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</description>
+		<content:encoded><![CDATA[<p>wdwefqwefqergtqergqeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ewwere</title>
+		<link>http://demo.samuli.me/wp/smartstart/the-quote-post/comment-page-1/#comment-2261</link>
+		<dc:creator>ewwere</dc:creator>
+		<pubDate>Mon, 13 Jan 2014 18:43:08 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=177#comment-2261</guid>
+		<description>dscsdvdav</description>
+		<content:encoded><![CDATA[<p>dscsdvdav</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

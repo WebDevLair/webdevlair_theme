@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SmartStart WP  &#187; Competitions</title>
+	<atom:link href="http://demo.samuli.me/wp/smartstart/category/competitions/feed/" rel="self" type="application/rss+xml" />
+	<link>http://demo.samuli.me/wp/smartstart</link>
+	<description>Simple and clean but still professional template suitable for any business or portfolio!</description>
+	<lastBuildDate>Wed, 04 Sep 2013 07:26:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+		<item>
+		<title>Find more Themeforest themes!</title>
+		<link>../../../find-more-themeforest-themes/index.html</link>
+		<comments>http://demo.samuli.me/wp/smartstart/find-more-themeforest-themes/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 14:16:31 +0000</pubDate>
+		<dc:creator>Smuliii</dc:creator>
+				<category><![CDATA[Awards & Recognition]]></category>
+		<category><![CDATA[Competitions]]></category>
+		<category><![CDATA[Direct Mail]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Link]]></category>
+
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=188</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.samuli.me/wp/smartstart/find-more-themeforest-themes/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>The Quote Post</title>
+		<link>../../../the-quote-post/index.html</link>
+		<comments>http://demo.samuli.me/wp/smartstart/the-quote-post/#comments</comments>
+		<pubDate>Tue, 03 Apr 2012 14:06:41 +0000</pubDate>
+		<dc:creator>Smuliii</dc:creator>
+				<category><![CDATA[Competitions]]></category>
+		<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Travel & Tourism]]></category>
+		<category><![CDATA[Quote]]></category>
+
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=177</guid>
+		<description><![CDATA[Vestibulum vestibulum semper tortor, eget molestie turpis ultrices sit amet. Vestibulum vehicula sollicitudin feugiat. Donec at augue non purus dictum interdum sit amet feugiat dolor. Sed semper, arcu quis ullamcorper fermentum, ante magna dignissim nisi, tincidunt blandit diam lectus nec&#8230;]]></description>
+			<content:encoded><![CDATA[<p>Vestibulum vestibulum semper tortor, eget molestie turpis ultrices sit amet. Vestibulum vehicula sollicitudin feugiat. Donec at augue non purus dictum interdum sit amet feugiat dolor. Sed semper, arcu quis ullamcorper fermentum, ante magna dignissim nisi, tincidunt blandit diam lectus nec lacus</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.samuli.me/wp/smartstart/the-quote-post/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

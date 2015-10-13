@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Hit It Hard by BeatheBeat</title>
+	<atom:link href="http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/feed/" rel="self" type="application/rss+xml" />
+	<link>../index.html</link>
+	<description>Simple and clean but still professional template suitable for any business or portfolio!</description>
+	<lastBuildDate>Wed, 16 Apr 2014 22:26:32 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.1</generator>
+	<item>
+		<title>By: hello</title>
+		<link>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/comment-page-1/#comment-2183</link>
+		<dc:creator>hello</dc:creator>
+		<pubDate>Wed, 28 Aug 2013 08:54:05 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180#comment-2183</guid>
+		<description>lambada...</description>
+		<content:encoded><![CDATA[<p>lambada&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: sfsfsf</title>
+		<link>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/comment-page-1/#comment-1908</link>
+		<dc:creator>sfsfsf</dc:creator>
+		<pubDate>Wed, 10 Apr 2013 07:55:55 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180#comment-1908</guid>
+		<description>fwfwqfqwfqwfwf</description>
+		<content:encoded><![CDATA[<p>fwfwqfqwfqwfwf</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: magui</title>
+		<link>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/comment-page-1/#comment-1732</link>
+		<dc:creator>magui</dc:creator>
+		<pubDate>Mon, 28 Jan 2013 04:05:18 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180#comment-1732</guid>
+		<description>darle duro</description>
+		<content:encoded><![CDATA[<p>darle duro</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Armandas</title>
+		<link>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/comment-page-1/#comment-1613</link>
+		<dc:creator>Armandas</dc:creator>
+		<pubDate>Thu, 25 Oct 2012 12:47:34 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180#comment-1613</guid>
+		<description>Is there the auto-play ption?</description>
+		<content:encoded><![CDATA[<p>Is there the auto-play ption?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: bitbad</title>
+		<link>http://demo.samuli.me/wp/smartstart/hit-it-hard-by-beathebeat/comment-page-1/#comment-41</link>
+		<dc:creator>bitbad</dc:creator>
+		<pubDate>Sat, 19 May 2012 22:18:47 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.samuli.me/wp/smartstart/?p=180#comment-41</guid>
+		<description>labada</description>
+		<content:encoded><![CDATA[<p>labada</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
