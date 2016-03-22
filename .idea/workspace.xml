@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b6589e6-6e51-4d61-9359-2136e0a46927" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webdevlair_theme.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/affiliate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/banner.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/filter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/google_hangouts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/information.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/latest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/slideshow.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/special.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/language/english/module/store.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/af.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/am.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/an.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/at.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/au.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/be.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/br.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/bz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ci.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/cy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/de.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/dj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/do.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/dz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/england.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/er.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/et.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/fj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/fk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/fo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/fr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/gy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/hk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/hu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/iq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ir.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/is.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/jm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/jo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/jp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/kz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/lb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/li.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/lk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/lu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/lv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/md.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/mz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/nf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/nl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/nu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/nz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/pf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/pg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/pl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/pw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/py.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/qa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/rw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/scotland.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/si.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/st.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/sz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/td.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/to.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/tz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/uy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/vg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/vi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/wales.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/wf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/ws.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/za.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/zm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/admin/view/image/flags/zw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/image/flags/bo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/image/flags/cm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/image/flags/gu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/remonttelefonov/image/flags/lb.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index_compile.html" afterPath="$PROJECT_DIR$/templates/index_compile.html" />
+    </list>
+    <ignored path="webdevlair_theme.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webdevlair_theme" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index_compile.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index_compile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6627219" vertical-offset="15280" max-vertical-offset="16125">
+              <caret line="1056" column="0" selection-start-line="1056" selection-start-column="0" selection-end-line="1056" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/index_compile.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdevlair_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdevlair_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdevlair_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdevlair_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdevlair_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b6589e6-6e51-4d61-9359-2136e0a46927" name="Default" comment="" />
+      <created>1458686779826</created>
+      <option name="number" value="Default" />
+      <updated>1458686779826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16773163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/index_compile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6627219" vertical-offset="15280" max-vertical-offset="16125">
+          <caret line="1056" column="0" selection-start-line="1056" selection-start-column="0" selection-end-line="1056" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
