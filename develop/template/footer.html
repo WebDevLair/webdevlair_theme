@@ -1,0 +1,313 @@
+<footer id="footer" class="clearfix">
+
+    <div class="container">
+
+        <div class="three-fourth">
+
+            <div id="nav_menu-3" class="widget widget_nav_menu">
+                <div class="menu-footer-navigation-container">
+                    <ul id="menu-footer-navigation" class="menu">
+                        <li id="menu-item-28"
+                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-28">
+                            <a href="/">Home</a>
+                        </li>
+                        <li id="menu-item-31"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31">
+                            <a href="elements.html">Features</a>
+                        </li>
+                        <li id="menu-item-32"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32">
+                            <a href="blog.html">Blog</a>
+                        </li>
+                        <li id="menu-item-30"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30">
+                            <a href="portfolio-4-columns/index.html">Portfolio 4 Columns</a>
+                        </li>
+                        <li id="menu-item-29"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29">
+                            <a href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="ss-contact-info-2" class="widget ss-contact-info">
+                <ul class="contact-info">
+                    <li class="address">30 South Park Avenue. San Francisco, CA 94108. USA</li>
+                    <li class="phone">(123) 456-7890</li>
+                    <li class="email">
+                        <a href="mailto:contact@companyname.com">contact@companyname.com</a>
+                    </li>
+                </ul>
+                <!-- end .contact-info -->
+            </div>
+        </div>
+        <!-- end .three-fourth -->
+
+        <div class="one-fourth last">
+
+            <div id="ss-social-links-2" class="widget ss-social-links">
+                <span class="widget-title">Stay Connected</span>
+                <ul class="social-links">
+                    <li class="dribbble">
+                        <a href="" target="_blank">Dribbble</a>
+                    </li>
+                    <li class="facebook">
+                        <a href="" target="_blank">Facebook</a>
+                    </li>
+                    <li class="skype">
+                        <a href="" target="_blank">Skype</a>
+                    </li>
+                    <li class="twitter">
+                        <a href="http://twitter.com/#" target="_blank">Twitter</a>
+                    </li>
+                    <li class="vimeo">
+                        <a href="" target="_blank">Vimeo</a>
+                    </li>
+                    <li class="youtube">
+                        <a href="" target="_blank">Youtube</a>
+                    </li>
+                </ul>
+                <!-- end .social-links -->
+            </div>
+        </div>
+        <!-- end .one-fourth.last -->
+
+    </div>
+    <!-- end .container -->
+
+</footer>
+<!-- end #footer -->
+
+<footer id="footer-bottom" class="clearfix">
+
+    <div class="container">
+
+        <ul>
+            <li>WebDevLair.com © 2012</li>
+            <li>
+                <a href="">Legal Notice</a>
+            </li>
+            <li>
+                <a href="">Terms</a>
+            </li>
+        </ul>
+    </div>
+    <!-- end .container -->
+
+</footer>
+<!-- end #footer-bottom -->
+
+<script type='text/javascript' src='js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+    /* <![CDATA[ */
+    var _wpcf7 = {
+        "loaderUrl": "http:\/\/demo.samuli.me\/wp\/smartstart\/wp-content\/themes\/smartstart\/images\/loader.gif",
+        "sending": "Sending ..."
+    };
+    /* ]]>*/</script>
+<script type='text/javascript' src='plugins/contact-form-7/scripts.js'></script>
+<script type='text/javascript' src='js/jquery.ui.widget.min.js'></script>
+<script type='text/javascript' src='js/respond.min.js'></script>
+<script type='text/javascript' src='js/jquery.easing-1.3.min.js'></script>
+<script type='text/javascript' src='js/jquery.fancybox.pack.js'></script>
+<script type='text/javascript' src='js/jquery.cycle.all.min.js'></script>
+<script type='text/javascript' src='js/jquery.webSlider.min.js'></script>
+<script type='text/javascript' src='js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='js/jquery.jcarousel.min.js'></script>
+<script type='text/javascript' src='js/audioplayerv1.min.js'></script>
+<script type='text/javascript' src='js/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript' src='js/custom.js'></script>
+
+
+<script>
+
+    (function ($) {
+
+        var $slider = $('#ss-features-slider');
+
+        if ($slider.length) {
+
+            // Prevent multiple initialization
+            if ($slider.data('init') === true)
+                return false;
+
+            $slider.data('init', true)
+                    .smartStartSlider({
+                        pos: 0,
+                        width: 940,
+                        height: 380,
+                        contentSpeed: 450,
+                        showContentOnhover: 1,
+                        hideContent: 0,
+                        contentPosition: "",
+                        timeout: 3000,
+                        pause: 0,
+                        pauseOnHover: 1,
+                        hideBottomButtons: 0,
+                        type: {
+                            mode: "random",
+                            speed: 400,
+                            easing: "easeInOutExpo",
+                            seqfactor: 100
+                        }
+                    });
+
+            // Detect swipe gestures support
+            if (Modernizr.touch) {
+
+                function swipeFunc(e, dir) {
+
+                    var $slider = $(e.currentTarget);
+
+                    if (dir === 'left') {
+                        $slider.find('.pagination-container .next').trigger('click');
+                    }
+
+                    if (dir === 'right') {
+                        $slider.find('.pagination-container .prev').trigger('click');
+                    }
+
+                }
+
+                $slider.swipe({
+                    swipeLeft: swipeFunc,
+                    swipeRight: swipeFunc,
+                    allowPageScroll: 'auto'
+                });
+
+            }
+
+        }
+
+    })(jQuery);
+
+</script>
+
+
+<script>
+    (function ($) {
+
+        var $slider = $('#ss-logos-slider');
+
+        if ($slider.length) {
+
+            // Prevent multiple initialization
+            if ($slider.data('init') === true)
+                return false;
+
+            $slider.data('init', true)
+                    .smartStartSlider({
+                        pos: 0,
+                        width: 940,
+                        height: 380,
+                        contentSpeed: 450,
+                        showContentOnhover: 1,
+                        hideContent: 0,
+                        contentPosition: "center",
+                        timeout: 3000,
+                        pause: 0,
+                        pauseOnHover: 1,
+                        hideBottomButtons: 0,
+                        type: {
+                            mode: "random",
+                            speed: 400,
+                            easing: "easeInOutExpo",
+                            seqfactor: 100
+                        }
+                    });
+
+            // Detect swipe gestures support
+            if (Modernizr.touch) {
+
+                function swipeFunc(e, dir) {
+
+                    var $slider = $(e.currentTarget);
+
+                    if (dir === 'left') {
+                        $slider.find('.pagination-container .next').trigger('click');
+                    }
+
+                    if (dir === 'right') {
+                        $slider.find('.pagination-container .prev').trigger('click');
+                    }
+
+                }
+
+                $slider.swipe({
+                    swipeLeft: swipeFunc,
+                    swipeRight: swipeFunc,
+                    allowPageScroll: 'auto'
+                });
+
+            }
+
+        }
+
+    })(jQuery);
+
+</script>
+
+<script>
+    (function ($) {
+
+        var $slider = $('#ss-photos-slider');
+
+        if ($slider.length) {
+
+            // Prevent multiple initialization
+            if ($slider.data('init') === true)
+                return false;
+
+            $slider.data('init', true)
+                    .smartStartSlider({
+                        pos: 0,
+                        width: 940,
+                        height: 380,
+                        contentSpeed: 450,
+                        showContentOnhover: 1,
+                        hideContent: 0,
+                        contentPosition: "bottom",
+                        timeout: 3000,
+                        pause: 0,
+                        pauseOnHover: 1,
+                        hideBottomButtons: 0,
+                        type: {
+                            mode: "random",
+                            speed: 400,
+                            easing: "easeInOutExpo",
+                            seqfactor: 100
+                        }
+                    });
+
+            // Detect swipe gestures support
+            if (Modernizr.touch) {
+
+                function swipeFunc(e, dir) {
+
+                    var $slider = $(e.currentTarget);
+
+                    if (dir === 'left') {
+                        $slider.find('.pagination-container .next').trigger('click');
+                    }
+
+                    if (dir === 'right') {
+                        $slider.find('.pagination-container .prev').trigger('click');
+                    }
+
+                }
+
+                $slider.swipe({
+                    swipeLeft: swipeFunc,
+                    swipeRight: swipeFunc,
+                    allowPageScroll: 'auto'
+                });
+
+            }
+
+        }
+
+    })(jQuery);
+</script>
+
+</body>
+</html>
